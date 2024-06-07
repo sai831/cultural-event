@@ -1,0 +1,85 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+body{
+    font-family: times,arial,serif;
+    
+}
+header{
+    background-color:#0b0b0b;
+    overflow: hidden;
+    color: aliceblue;
+    overflow: hidden;
+}
+header img{
+    height: 100px;
+    width: 100px;
+    float: left;
+    padding-top: 15px;
+    padding-left: 55px;
+    padding-right: 40px;
+}
+header h1{
+    padding-top:15px;
+    font-size: 50px;
+}
+header a{
+    text-decoration: none;
+    color:aliceblue;
+}
+header h2{
+    font-size: 30px;
+    padding-bottom: 5px;
+}
+.text{
+    
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-image: url('back5.jpg');
+    
+    
+}
+.text{
+    padding-top: 190px;
+    padding-bottom: 200px;
+    text-align: center;
+    color: black;
+    margin: 1px;
+    
+
+}
+.text h1{
+    text-transform: uppercase;
+    color: aliceblue;
+    font-size: 80px;
+}
+.text p{
+    color:aliceblue;
+    font-size: 35px;
+}
+.text a{
+    background:blue;
+    border-radius: 15px;
+    padding:15px 25px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 1px;
+    display: inline-block;
+    color: aliceblue;
+}
+.text a:hover{
+    background:orange;
+    color:white;
+}
+.footer{
+    padding: 10px;
+    color:aliceblue;
+    background-color: black;
+    text-align: center;
+}
+
+
+
